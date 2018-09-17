@@ -1,2 +1,7 @@
 test file for branching
+# just added a space here and now we can have both lines of text within the same branch.
+this is a different version of test2.txt, lying on a different branch.
+
+
+
 
