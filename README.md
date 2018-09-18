@@ -8,5 +8,6 @@ For now, it is a proof of concepts for collaborating on JupyterNotebooks via our
 
 As a note to collaborators:
 please make sure that you work within your own branch ;-):
-git checkout -b "branchname"
-git checkout "branchname" !
+
+
+git checkout -b "branchname" 
