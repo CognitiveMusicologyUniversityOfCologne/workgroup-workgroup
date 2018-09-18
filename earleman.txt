@@ -1,7 +1,0 @@
-texttexttext:wq
-:wq
-:WQ
-:q
-:wq
-:wq
-
