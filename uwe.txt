@@ -1,6 +1,4 @@
 Hello schöne neue Welt
-
-
 Sebastian: Ich schreibe in die dritte Zeile
 Warum befinden wir uns in der hell of dependencies?
-
+Hello schöne neue Welt, ist doch ein schöner Tag!
